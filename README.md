@@ -6,8 +6,8 @@ CONVERTING Excel File as JSON Response using "convert-excel-to-json" NPM package
 
 ### Screenshots -
 
-![DETAILS](/1.png?raw=true)
+![DETAILS](/1.PNG?raw=true)
 
-![TEAM LIST](/2.png?raw=true)
+![TEAM LIST](/2.PNG?raw=true)
 
-![POSTMAN JSON RESPONSE](/3.png?raw=true)
+![POSTMAN JSON RESPONSE](/3.PNG?raw=true)
